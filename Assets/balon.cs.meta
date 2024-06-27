@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: baccf7fe41a55ae4ab9f93efa234f70a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - patlama_efekti: {fileID: 1766358976576748784, guid: f487b856963f33c469b301995a9b59a3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
