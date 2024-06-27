@@ -10,6 +10,7 @@ Oyuncu oyun başında gösterilen menü penceresindeki bilgileri ‘hafızasınd
 ![2](https://github.com/haticezulalzengin/BalonPatlatmaOyunu/assets/148469634/45ba4817-160c-4017-a588-49b448772d54)
 
 Oyuncunun ‘dikkat’ unsuru göze alınarak yönlendirmelere uyması gerekmektedir. Kırmızı balona basmaması gerektiği oyuncunun dikkatini ölçen bir unsurdur.
+
 ![3](https://github.com/haticezulalzengin/BalonPatlatmaOyunu/assets/148469634/86409aff-a2fd-4a69-b5db-51c04930789b)
 
 **Oyuncunun gerek skor, gerekse saniye takibi yapması; pratik hesap yeteneğini ölçer.**
